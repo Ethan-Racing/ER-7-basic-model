@@ -23,4 +23,3 @@
 *.docx -crlf -diff -merge
 *.pdf -crlf -diff -merge
 *.jpg -crlf -diff -merge
-*.png -crlf -diff -merge
